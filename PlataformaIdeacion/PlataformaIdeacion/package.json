@@ -1,0 +1,16 @@
+{
+  "name": "plataforma-ideacion",
+  "version": "0.0.1",
+  "description": "PlataformaIdeacion",
+  "main": "server.js",
+  "author": {
+    "name": "user1",
+    "email": "plataformaideacion@gmail.com"
+  },
+   "dependencies": {
+      "express": "4.13.4",
+      "tedious": "1.14.0",
+      "mssql": "3.2.1",
+      "body-parser": "1.15.0"
+    }
+}
