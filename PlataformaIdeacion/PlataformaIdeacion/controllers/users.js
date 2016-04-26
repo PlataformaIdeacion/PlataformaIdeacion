@@ -63,5 +63,6 @@ module.exports = function (app, sql, Request) {
 
     app.get('/users', userGet);
     app.delete('/users/:id', userDelete);
+
     app.post('/sign_up', userAdd);
 }
